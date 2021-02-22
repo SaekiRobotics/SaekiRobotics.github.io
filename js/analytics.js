@@ -1,6 +1,8 @@
 
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "ce98840acd1a404e8b96a95c156bfd1b"}'></script><!-- End Cloudflare Web Analytics -->
 
+<!-- Google Optimization  -->
+<script src="https://www.googleoptimize.com/optimize.js?id=GTM-MHTPZGD"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7CFYYFHKBG"></script>
     <script>
@@ -8,7 +10,7 @@
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 
-gtag('config', 'G-7CFYYFHKBG');
+gtag('config', 'G-7CFYYFHKBG', { 'optimize_id': 'GTM-MHTPZGD' });
 </script>
 
 // <!-- Google Tag Manager -->
